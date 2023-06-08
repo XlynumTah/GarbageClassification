@@ -12,3 +12,5 @@ Dataset take from Kaggle including 6 class and self-collection dataset. This not
 * Danger
 
 Let's go using CNNs from Scratch.
+
+Run code sequentially follow GarbageClassification.ipynb to get expected model
